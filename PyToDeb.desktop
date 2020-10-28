@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PyToDeb
+Comment=Minimal stdeb example
+# PyToDeb should wait for user input at the end, else the terminal
+# window will disappear immediately.
+Exec=PyToDeb
+Icon=/usr/share/icons/gnome/48x48/apps/file-manager.png
+Categories=Utility;
+# desktop should run this in a terminal application
+Terminal=true
+StartupNotify=true
+StartupWMClass=PyToDeb
