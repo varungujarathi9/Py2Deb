@@ -17,11 +17,10 @@ pip3 install stem stdeb
 ```
 ThisRepo/
     README.md
+    setup.py
     PyToDeb/
-        setup.py
-        PyToDeb/
-            __init__.py
-            PyToDeb.py
+        __init__.py
+        PyToDeb.py
 ```
 
 ### 3. Now copy the `setup.py` from [here](setup.py)
