@@ -8,7 +8,7 @@ ___
 ### 1. First install stdeb
 
 ```
-sudo apt install python-stdeb
+apt install python-stdeb
 pip3 install stem stdeb
 ```
 
