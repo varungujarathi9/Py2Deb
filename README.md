@@ -15,7 +15,7 @@ pip3 install stem stdeb
 ### 2. The folder structure should be same as
 
 ```
-ThisRepo/
+This_Repo/
     README.md
     setup.py
     PyToDeb/
